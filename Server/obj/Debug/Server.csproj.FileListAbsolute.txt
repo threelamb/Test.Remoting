@@ -1,0 +1,12 @@
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\obj\Debug\Server.exe
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\obj\Debug\Server.pdb
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\bin\Debug\Server.exe
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\bin\Debug\Server.pdb
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\obj\Debug\Server.BroadCastForm.resources
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\obj\Debug\Server.ServerForm.resources
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\bin\Debug\Common.dll
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\bin\Debug\RemoteObject.dll
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\bin\Debug\Common.pdb
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\Server\bin\Debug\RemoteObject.pdb

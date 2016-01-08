@@ -1,0 +1,14 @@
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\RemoteObject\obj\Debug\RemoteObject.csprojResolveAssemblyReference.cache
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\RemoteObject\obj\Debug\RemoteObject.dll
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\RemoteObject\obj\Debug\RemoteObject.pdb
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\RemoteObject\bin\Debug\RemoteObject.dll
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\RemoteObject\bin\Debug\RemoteObject.pdb
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\RemoteObject\bin\Debug\Common.dll
+D:\Doc\Temp\Remoting事件(服务端广播)\Remoting事件(服务端广播)\RemoteObject\bin\Debug\Common.pdb
+D:\Doc\Temp\RemotingEvent\RemoteObject\bin\Debug\RemoteObject.dll
+D:\Doc\Temp\RemotingEvent\RemoteObject\bin\Debug\RemoteObject.pdb
+D:\Doc\Temp\RemotingEvent\RemoteObject\bin\Debug\Common.dll
+D:\Doc\Temp\RemotingEvent\RemoteObject\bin\Debug\Common.pdb
+D:\Doc\Temp\RemotingEvent\RemoteObject\obj\Debug\RemoteObject.csprojResolveAssemblyReference.cache
+D:\Doc\Temp\RemotingEvent\RemoteObject\obj\Debug\RemoteObject.dll
+D:\Doc\Temp\RemotingEvent\RemoteObject\obj\Debug\RemoteObject.pdb
