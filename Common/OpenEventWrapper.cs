@@ -8,6 +8,9 @@ using System.Runtime.Serialization.Formatters;
 
 namespace Common
 {
+    /// <summary>
+    /// Encapsulate remoting event.
+    /// </summary>
     public class OpenEventWrapper : MarshalByRefObject
     {
         public event OpenEventHandler EventHandlerA;

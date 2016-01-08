@@ -11,8 +11,6 @@ namespace RemoteObject
     {
         public event OpenEventHandler OpenEvent;
 
-        #region IBroadCast 成员
-
         public void ExcuteEvent(string info)
         {
             if (OpenEvent != null)
@@ -20,8 +18,6 @@ namespace RemoteObject
                 OpenEvent(info);
             }
         }
-
-        #endregion
 
         public override object InitializeLifetimeService()
         {
@@ -36,8 +32,6 @@ namespace RemoteObject
     {
         public event OpenEventHandler OpenEvent;
 
-        #region IBroadCast 成员
-
         public void ExcuteEvent(string info)
         {
             if (OpenEvent != null)
@@ -45,8 +39,6 @@ namespace RemoteObject
                 OpenEvent(info);
             }
         }
-
-        #endregion
 
         public override object InitializeLifetimeService()
         {

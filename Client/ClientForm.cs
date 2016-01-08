@@ -136,6 +136,9 @@ namespace Client
             wrapper.EventHandlerB += new OpenEventHandler(wrapper_EventHandlerB);
         }
 
+
+        delegate void Update(string mes);
+
         void wrapper_EventHandlerA(string info)
         {
             this.Invoke(new Update(update), info);
@@ -150,6 +153,7 @@ namespace Client
         {
             txtMessage.Text += "I got it:" + message;
             txtMessage.Text += System.Environment.NewLine;
+            MessageBox.Show(message);
         }
 
         private void btnClear_Click(object sender, System.EventArgs e)
@@ -157,7 +161,6 @@ namespace Client
             txtMessage.Text = "";
         }
 
-        delegate void Update(string mes);
 
 
 
